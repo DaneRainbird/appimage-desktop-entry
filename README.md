@@ -1,4 +1,6 @@
-Bash script that creates desktop entry for an .AppImage
+### AppImage Desktop Entry
+My personal fork of a bash script that creates desktop entry for an .AppImage
+This fork adds the ability for a user to provide their own icon image in the case that the AppImage does not contain one, which is common with hobbyist programs.
 
 ## Usage
 
